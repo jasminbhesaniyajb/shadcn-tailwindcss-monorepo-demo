@@ -1,0 +1,22 @@
+{
+  "name": "shadcn-tailwindcss-monorepo-demo",
+  "version": "1.0.0",
+  "workspaces": [
+    "apps/*",
+    "packages/*"
+  ],
+  "description": "",
+  
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "packageManager": "pnpm@10.9.0",
+  "engines": {
+    "node": ">=21.6.1"
+  },
+  "type": "module"
+}
