@@ -6,7 +6,7 @@ export default function Home() {
   return (
     <div className="p-4">
       <h1 className="text-blue-500 font-bold">Admin panel</h1>
-      <Button>Button</Button>
+      <Button variant="destructive">Button</Button>
       {/* <NoDataFound /> */}
     </div>
   );
